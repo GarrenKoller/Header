@@ -13,7 +13,7 @@ int main() {
 	int choice;				//intalizing choice
 	while (playState != 'n') {		// while loop 
 	welcome();					//using function welcome from header file
-	cin >> choice;				// players choice
+	cin >> choice;				// players choice 
 
 
 		if (choice == 0) {			//if choice = 0

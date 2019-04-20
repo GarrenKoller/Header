@@ -6,7 +6,7 @@
 #include <iostream>		//in and out stream
 
 using namespace std;		//standard libary namespace 
-
+ 
 
 void welcome() {		//helper function welcome
 
